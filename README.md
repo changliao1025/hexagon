@@ -10,3 +10,13 @@ Because all of them fundamentally require some common basis in hexagon related o
 
 Therefore, in this repository, focus will be on core challenge and technique instead of actual source code. Of cource, in the final stage, a well managed/documented library will be released.
 
+Tune in the #issue tab for day to day thoughts and progresses made.
+https://github.com/changliao1025/hexagon/issues
+
+The #Projects tab will provide specific road path for individual projects.
+
+The #Wiki tab will provide some useful information for even deeper questions asked.
+
+Likely I will also share some updates on Twitter (@changliao1025) but most content here should be up-to-date.
+
+Good luck!
