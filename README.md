@@ -7,6 +7,7 @@ Later on, I extended the capability of ECO3D from watershed scale to global scal
 During the course of developement, a list of models were produced, i.e. hexwatershed, hexocean and hexcontinent.
 
 Because all of them fundamentally require some common basis in hexagon related operations/algorithms, I decided to ship out some shared library to ease my own development.
+https://github.com/changliao1025/hexagon_src
 
 Therefore, in this repository, focus will be on core challenge and technique instead of actual source code. Of cource, in the final stage, a well managed/documented library will be released.
 
