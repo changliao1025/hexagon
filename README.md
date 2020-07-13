@@ -1,23 +1,15 @@
-# hexagon
+# Hexagon
 
-It all started with the #ECO3D model.
+This library is used to discuss and standarize some shared principles related to hexagon mesh for Earth System Models (ESM).
 
-Later on, I extended the capability of ECO3D from watershed scale to global scale.
+# Citation
 
-During the course of developement, a list of models were produced, i.e. hexwatershed, hexocean and hexcontinent.
+Liao, C., Tesfa, T., Duan, Z., & Leung, L. R. (2020). Watershed delineation on a hexagonal mesh grid. Environmental Modelling & Software, 104702.
 
-Because all of them fundamentally require some common basis in hexagon related operations/algorithms, I decided to ship out some shared library to ease my own development.
-https://github.com/changliao1025/hexagon_src
+https://www.sciencedirect.com/science/article/pii/S1364815219308278
 
-Therefore, in this repository, focus will be on core challenge and technique instead of actual source code. Of cource, in the final stage, a well managed/documented library will be released.
+# Acknowledgement
+The method described in this paper was funded by several projects at Pacific Northwest National Laboratory. CL was also partly supported by U.S. Department of Energy Office of Science Biological and Environmental Research through the Earth and Environmental System Modeling program as part of the Energy Exascale Earth System Model (E3SM) project. 
 
-Tune in the #issue tab for day to day thoughts and progresses made.
-https://github.com/changliao1025/hexagon/issues
-
-The #Projects tab will provide specific road path for individual projects.
-
-The #Wiki tab will provide some useful information for even deeper questions asked.
-
-Likely I will also share some updates on Twitter (@changliao1025) but most content here should be up-to-date.
-
-Good luck!
+# Contact
+Please contact Chang Liao (chang.liao@pnnl.gov) if you have any questions.
